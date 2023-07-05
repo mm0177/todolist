@@ -1,0 +1,85 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#heading{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body{
+  background-color: lightpink;
+  margin-top: 150px;
+  margin-left: 300px;
+  
+}
+ span {
+margin-top: -3px;
+
+  margin-left:403px;
+  position:absolute;
+  color:#ffffff; 
+   font-size: 20px;
+   font-weight: bold;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   border: solid white;
+  border-radius:30px;
+   
+   width: 27px;
+   padding-left:10px;
+  
+
+  left:80px;
+  
+  
+}
+@counter-style space-counter {
+  system: cyclic;
+  symbols: "\1F44D";
+  suffix: " ";
+}
+
+
+li{
+  margin-top:10px;
+  margin-left:20px;
+  list-style-type: disc;
+  border:solid #ddf335;
+  border-radius: 20px;
+
+  padding:10px;
+  height:25px;
+  width: 200px;
+}
+.r{
+ 
+  
+  background: #edeef0;
+  
+  
+
+  width: 210px;
+border: solid white;
+  border-radius:30px;
+  padding: 20px;
+
+
+  
+  
+  
+}
+
+#tex{
+  background: transparent;
+  border:none;
+  outline:none;
+}
+button{
+  border: none;
+  outline:none;
+  border-radius:30px;
+  background: #b8baff;
+  margin:0;
+  padding-top: 10px;
+  padding-bottom:10px;
+
+}
